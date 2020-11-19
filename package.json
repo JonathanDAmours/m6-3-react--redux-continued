@@ -1,4 +1,5 @@
 {
+  "proxy": "http://localhost:5678",
   "name": "react-workshop-spotify-client",
   "version": "0.1.0",
   "private": true,
@@ -28,11 +29,13 @@
     "new-component": "^1.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-loader-spinner": "^3.1.5",
+    "react-icons": "^3.11.0",
+    "react-loader-spinner": "^3.1.14",
     "react-play-button": "0.2.2",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "2.1.8",
+    "react-spinners": "^0.9.0",
     "react-spring": "^9.0.0-beta.6",
     "redux": "^4.0.5",
     "styled-components": "^4.2.0"

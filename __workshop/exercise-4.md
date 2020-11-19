@@ -10,8 +10,8 @@ Create a few new files:
 
 For this workshop, here are the types of data we'll be dealing with:
 
-- We need to hit our server to get an API key
-- We need to hit Spotify's API to get artist information
+- We need to hit our server to get an API key // `auth`
+- We need to hit Spotify's API to get artist information // `artists`
 
 These fall into two broad categories: `auth` and `artists`. Here's a depiction of what our state will look like:
 
